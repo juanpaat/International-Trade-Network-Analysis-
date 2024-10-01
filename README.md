@@ -14,6 +14,9 @@ This study examines the recent developments in the international trade network, 
 
 The study begins by presenting an updated overview of the international trade network, considering key actors, trade behaviours, and the repercussions of the COVID-19 pandemic on global commerce. Our analysis is based on the top five trading partners of each country, filtering out noisy trade flows and focusing on significant connections.
 
+![image](https://github.com/user-attachments/assets/8487c8a0-29d3-4e59-a1ac-becd3de7a0e3)
+
+
 ### II. Literature Review
 
 Recent literature has highlighted the dominance of a small group of countries in global trade and the presence of distinct communities within the international trade network. Studies using Social Network Analysis (SNA) have consistently identified the US, China, and Germany as central players, with persistent communities despite global disruptions like the COVID-19 pandemic.
